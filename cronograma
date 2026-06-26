@@ -1,0 +1,32 @@
+CRONOGRAMA DE DESARROLLO 
+
+
+SEMANA 1 — Planificación inicial
+
+En esta primera semana se identificó el problema a resolver y se definió claramente el objetivo del programa: crear un juego funcional de Piedra, Papel o Tijera contra la computadora. Se analizaron los elementos necesarios como las opciones del juego, el marcador y la lógica de repetición.
+
+SEMANA 2 — Diseño de la lógica
+
+Se diseñó en papel o esquema la estructura general del programa antes de escribir código. Se definieron las variables principales, el flujo del bucle y las condiciones de victoria. Esta etapa fue clave para tener una guía clara antes de programar.
+
+SEMANA 3 — Desarrollo parte 1
+
+Se comenzó a escribir el código. Se implementó la lista de opciones, la entrada del jugador con su respectiva validación, y la elección aleatoria de la computadora usando `random.choice()`. También se construyó el bucle principal `while` que controla las rondas.
+
+
+SEMANA 4 — Desarrollo parte 2
+
+Se programó la parte central del juego: la comparación entre la elección del jugador y la de la computadora con todas las condiciones posibles. Se añadió el marcador de puntos y la pregunta al final de cada ronda para continuar o terminar el juego.
+
+
+SEMANA 5 — Pruebas iniciales
+
+Se realizaron las primeras pruebas ingresando datos incorrectos como palabras en mayúsculas, con espacios o que no corresponden a ninguna opción. Se verificó que el `continue` funcionara correctamente y se hicieron ajustes menores para mejorar la experiencia del usuario.
+
+SEMANA 6 — Pruebas completas
+Se probó el flujo completo del juego jugando varias partidas seguidas. Se verificó que el resultado final mostrara correctamente al ganador, perdedor o empate. Se registraron los errores encontrados para corregirlos en la siguiente semana.
+
+
+SEMANA 7 — Corrección y entrega
+
+Se corrigieron todos los errores detectados durante las pruebas. Se limpió y ordenó el código para que fuera más legible. Finalmente se preparó la documentación del programa y se realizó la entrega del proyecto terminado.
